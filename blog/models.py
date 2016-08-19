@@ -1,4 +1,4 @@
-from django.db import modelse
+from django.db import models
 from django.utils import timezone
 
 
