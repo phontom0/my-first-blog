@@ -1,4 +1,13 @@
-# my-first-blog
+#### Project Folder Path
+/opt/biplug/projects/biplugDashboardDemo
 
-install
-www.biplug.co.kr
+#### Install
+```sh
+$ pip install pyyaml ua-parser user-agents
+$ pip install django-user-agents
+```
+
+#### Run Server
+```sh
+$ python manage.py runserver
+```
